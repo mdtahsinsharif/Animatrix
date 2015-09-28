@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/wimage2" android:duration="100" />
+    <item android:drawable="@drawable/wimage3" android:duration="100" />
+    <item android:drawable="@drawable/wimage4" android:duration="100" />
+    <item android:drawable="@drawable/wimage5" android:duration="100" />
+    <item android:drawable="@drawable/wimage6" android:duration="100" />
+    <item android:drawable="@drawable/wimage7" android:duration="100" />
+    <item android:drawable="@drawable/wimage8" android:duration="100" />
+    <item android:drawable="@drawable/wimage9" android:duration="100" />
+
+</animation-list>

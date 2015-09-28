@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/leo1" android:duration="50" />
+    <item android:drawable="@drawable/leo2" android:duration="50" />
+    <item android:drawable="@drawable/leo3" android:duration="50" />
+    <item android:drawable="@drawable/leo4" android:duration="50" />
+    <item android:drawable="@drawable/leo5" android:duration="50" />
+    <item android:drawable="@drawable/leo6" android:duration="50" />
+    <item android:drawable="@drawable/leo7" android:duration="50" />
+    <item android:drawable="@drawable/leo8" android:duration="50" />
+    <item android:drawable="@drawable/leo9" android:duration="50" />
+    <item android:drawable="@drawable/leo10" android:duration="50" />
+    <item android:drawable="@drawable/leo11" android:duration="50" />
+    <item android:drawable="@drawable/leo12" android:duration="50" />
+    <item android:drawable="@drawable/leo13" android:duration="50" />
+    <item android:drawable="@drawable/leo14" android:duration="50" />
+    <item android:drawable="@drawable/leo15" android:duration="50" />
+    <item android:drawable="@drawable/leo16" android:duration="50" />
+    <item android:drawable="@drawable/leo17" android:duration="50" />
+    <item android:drawable="@drawable/leo18" android:duration="50" />
+    <item android:drawable="@drawable/leo19" android:duration="50" />
+    <item android:drawable="@drawable/leo20" android:duration="50" />
+    <item android:drawable="@drawable/leo21" android:duration="50" />
+    <item android:drawable="@drawable/leo22" android:duration="50" />
+    <item android:drawable="@drawable/leo23" android:duration="50" />
+    <item android:drawable="@drawable/leo24" android:duration="50" />
+
+
+
+
+
+   </animation-list>
